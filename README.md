@@ -23,8 +23,8 @@ Ghép lại và kết quả thu được key: **PADAWAN**
 
 Tiếp theo, cần tìm ra thuật toán mã hóa ciphertext, "aiye_hoav_aqd_advi" là một chuỗi chỉ gồm các ký tự nên có thể là dạng mã hóa cổ điển
 ![image](https://hackmd.io/_uploads/rJ2Yq7Q1xg.png)
-Có hai dạng phổ biến là Caesar và Vigenere, nhưng key là một chuỗi text thì Vigenere phù hợp hơn.
-https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher
+Có hai dạng phổ biến là Caesar và Vigenere, nhưng key là một chuỗi text thì Vigenère phù hợp hơn.
+[Vigenère Cipher](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher)
 
 Vigenere Decode và thu được flag
 ![image](https://hackmd.io/_uploads/SyXesmXklg.png)
